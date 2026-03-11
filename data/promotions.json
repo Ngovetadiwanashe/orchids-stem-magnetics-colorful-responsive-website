@@ -1,0 +1,13 @@
+[
+  {
+    "id": "a17aadd5-9f1f-42f1-a04a-95775deb2863",
+    "title": "HP LaserJet Pro — Summer Deal",
+    "description": "Get the best laser printer at an unbeatable price this season.",
+    "image_url": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=400",
+    "badge_text": "HOT DEAL",
+    "original_price": 299.99,
+    "promo_price": 209.99,
+    "is_active": true,
+    "created_at": "2026-03-09T09:52:08.924Z"
+  }
+]

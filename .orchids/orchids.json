@@ -1,0 +1,28 @@
+{
+  "projectId": "5f0db1e3-35d1-482a-a963-4a07ae6ac0fe",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+  "createdAt": 1767789044624,
+=======
+  "createdAt": 1767882954902,
+>>>>>>> Stashed changes
+=======
+  "createdAt": 1767882954902,
+>>>>>>> Stashed changes
+=======
+  "createdAt": 1767882954902,
+>>>>>>> Stashed changes
+=======
+  "createdAt": 1767882954902,
+>>>>>>> Stashed changes
+=======
+  "createdAt": 1767882954902,
+>>>>>>> Stashed changes
+  "version": "1.0",
+  "startupCommands": [
+    "bun install; bun run dev"
+  ]
+}
